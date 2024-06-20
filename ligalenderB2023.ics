@@ -1,0 +1,297 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+X-WR-CALNAME:Ligalender B 2023
+NAME:Ligalender B 2023
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+LAST-MODIFIED:20231222T233358Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696337956196-9274418@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20231019T200000
+DTEND;TZID=Europe/Berlin:20231019T220000
+SUMMARY:Heimspiel - Fläschle Darters B x Jacky Darters 2
+URL:https://maps.app.goo.gl/skRisVLJcZSHQnkq5
+DESCRIPTION:Hinrunde - 1. Spieltag
+LOCATION:Old Pub - Irish Style Untere Mühlbachstraße 2\, 88045 Friedrichshafen\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Heimspiel - Fläschle Darters B x Jacky Darters 2
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696338146286-10096@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20231026T200000
+DTEND;TZID=Europe/Berlin:20231026T220000
+SUMMARY:Auswärtsspiel - Dart Propeller 1 x Fläschle Darters B
+URL:https://maps.app.goo.gl/iJUdJaPWkWX2ptib8
+DESCRIPTION:Hinrunde - 2. Spieltag
+LOCATION:Bier Bar "Hock Nei" Paulinenstraße 60\, 88046 Friedrichshafen\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Auswärtsspiel - Dart Propeller 1 x Fläschle Darters B
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696338238930-89110@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20231116T200000
+DTEND;TZID=Europe/Berlin:20231116T220000
+SUMMARY:Auswärtsspiel - DC Hazienda x Fläschle Darters B
+URL:https://maps.app.goo.gl/VzBmD5qhXGqWhwvP8
+DESCRIPTION:Hinrunde - 3. Spieltag
+LOCATION:Pilsbar Hazienda Alemannenstraße 15\, 88094 Oberteuringen\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Auswärtsspiel - DC Hazienda x Fläschle Darters B
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696338362759-47762@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20231214T200000
+DTEND;TZID=Europe/Berlin:20231214T220000
+SUMMARY:Auswärtsspiel - Fläschle Darters B x Easy Reiter
+URL:https://maps.app.goo.gl/vYsdrGwRESdjiUvD8
+DESCRIPTION:Hinrunde - 5. Spieltag
+LOCATION:Hoher Reit- u. Fahrstall Dorfstraße 31\, 88682 Salem\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Auswärtsspiel - Fläschle Darters B x Easy Reiter
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696338312260-14556@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20231221T200000
+DTEND;TZID=Europe/Berlin:20231221T220000
+SUMMARY:Auswärtsspiel - Triple One Champs x Fläschle Darters B
+URL:https://maps.app.goo.gl/VzBmD5qhXGqWhwvP8
+DESCRIPTION:Hinrunde - 4. Spieltag
+LOCATION:Pilsbar Hazienda Alemannenstraße 15\, 88094 Oberteuringen\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Auswärtsspiel - Triple One Champs x Fläschle Darters B
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696338409424-49174@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20240111T200000
+DTEND;TZID=Europe/Berlin:20240111T220000
+SUMMARY:Heimspiel - Fläschle Darters B x Nice Hornets
+URL:https://maps.app.goo.gl/skRisVLJcZSHQnkq5
+DESCRIPTION:Hinrunde - 6. Spieltag
+LOCATION:Old Pub - Irish Style Untere Mühlbachstraße 2\, 88045 Friedrichshafen\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Heimspiel - Fläschle Darters B x Nice Hornets
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696338434593-46174@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20240125T200000
+DTEND;TZID=Europe/Berlin:20240125T220000
+SUMMARY:Heimspiel - Fläschle Darters B x Devil Darters
+URL:https://maps.app.goo.gl/skRisVLJcZSHQnkq5
+DESCRIPTION:Hinrunde - 7. Spieltag
+LOCATION:Old Pub - Irish Style Untere Mühlbachstraße 2\, 88045 Friedrichshafen\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Heimspiel - Fläschle Darters B x Devil Darters
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696338456393-13306@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20240208T200000
+DTEND;TZID=Europe/Berlin:20240208T220000
+SUMMARY:Heimspiel - Fläschle Darters B x Dart Vader
+URL:https://maps.app.goo.gl/skRisVLJcZSHQnkq5
+DESCRIPTION:Hinrunde - 8. Spieltag
+LOCATION:Old Pub - Irish Style Untere Mühlbachstraße 2\, 88045 Friedrichshafen\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Heimspiel - Fläschle Darters B x Dart Vader
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696338492507-84037@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20240229T200000
+DTEND;TZID=Europe/Berlin:20240229T220000
+SUMMARY:Auswärtsspiel - Zittrige Griffel x Fläschle Darters B
+URL:https://maps.app.goo.gl/WxF22bBy9MnauA7GA
+DESCRIPTION:Hinrunde - 9. Spieltag
+LOCATION:Butenschön Bellaton GbR - Billardcafé Grisu Langenargen Mühlesch 13\, 88085 Langenargen\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Auswärtsspiel - Zittrige Griffel x Fläschle Darters B
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696338579686-29346@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20240314T200000
+DTEND;TZID=Europe/Berlin:20240314T220000
+SUMMARY:Auswärtsspiel - Jacky Darters 2 x Fläschle Darters B 
+URL:https://maps.app.goo.gl/MWc19qUBguUefZFx5
+DESCRIPTION:Rückrunde - 10. Spieltag
+LOCATION:Salzstadel Ravensburg Marktstraße 35\, 88212 Ravensburg\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Auswärtsspiel - Jacky Darters 2 x Fläschle Darters B 
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696338713779-31972@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20240321T200000
+DTEND;TZID=Europe/Berlin:20240321T220000
+SUMMARY:Heimspiel - Fläschle Darters B x Dart Propeller 1
+URL:https://maps.app.goo.gl/skRisVLJcZSHQnkq5
+DESCRIPTION:Rückrunde - 11. Spieltag
+LOCATION:Old Pub - Irish Style Untere Mühlbachstraße 2\, 88045 Friedrichshafen\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Heimspiel - Fläschle Darters B x Dart Propeller 1
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696338756317-26926@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20240410T200000
+DTEND;TZID=Europe/Berlin:20240410T220000
+SUMMARY:Heimspiel - Fläschle Darters B x DC Hazienda
+URL:https://maps.app.goo.gl/skRisVLJcZSHQnkq5
+DESCRIPTION:Rückrunde - 12. Spieltag
+LOCATION:Old Pub - Irish Style Untere Mühlbachstraße 2\, 88045 Friedrichshafen\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Heimspiel - Fläschle Darters B x DC Hazienda
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696338779287-99147@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20240418T200000
+DTEND;TZID=Europe/Berlin:20240418T220000
+SUMMARY:Heimspiel - Fläschle Darters B x Triple One Champs
+URL:https://maps.app.goo.gl/skRisVLJcZSHQnkq5
+DESCRIPTION:Rückrunde - 13. Spieltag
+LOCATION:Old Pub - Irish Style Untere Mühlbachstraße 2\, 88045 Friedrichshafen\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Heimspiel - Fläschle Darters B x Triple One Champs
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696338805815-46954@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20240516T200000
+DTEND;TZID=Europe/Berlin:20240516T220000
+SUMMARY:Auswärtsspiel - Easy Reiter x Fläschle Darters B
+URL:https://maps.app.goo.gl/vYsdrGwRESdjiUvD8
+DESCRIPTION:Rückrunde - 14. Spieltag
+LOCATION:Hoher Reit- u. Fahrstall Dorfstraße 31\, 88682 Salem\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Auswärtsspiel - Easy Reiter x Fläschle Darters B
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696338853449-82783@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20240617T200000
+DTEND;TZID=Europe/Berlin:20240617T220000
+SUMMARY:Auswärtsspiel - Nice Hornets x Fläschle Darters B
+URL:https://maps.app.goo.gl/HAvxoqcsgBhQdkma6
+DESCRIPTION:Rückrunde - 15. Spieltag
+LOCATION:nice Bar Aachstraße 18\, 88690 Uhldingen-Mühlhofen\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Auswärtsspiel - Nice Hornets x Fläschle Darters B
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696338898355-16007@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20240610T200000
+DTEND;TZID=Europe/Berlin:20240610T220000
+SUMMARY:Auswärtsspiel - Devil Darters x Fläschle Darters B
+URL:https://maps.app.goo.gl/twjJwJ6pVmQjuf7P8
+DESCRIPTION:Rückrunde - 16. Spieltag\nVerschoben vom 13. auf den 10.
+LOCATION:Savanne Friedrichshafen Hans-Schnitzler-Straße 28\, 88045 Friedrichshafen\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Auswärtsspiel - Devil Darters x Fläschle Darters B
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696338961509-35513@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20240620T200000
+DTEND;TZID=Europe/Berlin:20240620T220000
+SUMMARY:Auswärtsspiel - Dart Vader x Fläschle Darters B
+URL:https://maps.app.goo.gl/Jf7D2H271nzKCe6CA
+DESCRIPTION:Rückrunde - 17. Spieltag
+LOCATION:Wirtshaus im Schussental Eugen-Bolz-Straße 22\, 88074 Meckenbeuren\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Auswärtsspiel - Dart Vader x Fläschle Darters B
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240614T152613Z
+UID:1696339012407-76228@ical.marudot.com
+DTSTART;TZID=Europe/Berlin:20240704T200000
+DTEND;TZID=Europe/Berlin:20240704T220000
+SUMMARY:Heimspiel - Fläschle Darters B x Zittrige Griffel
+URL:https://maps.app.goo.gl/skRisVLJcZSHQnkq5
+DESCRIPTION:Rückrunde - 18. Spieltag
+LOCATION:Old Pub - Irish Style Untere Mühlbachstraße 2\, 88045 Friedrichshafen\, Germany
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Heimspiel - Fläschle Darters B x Zittrige Griffel
+TRIGGER:-PT1H
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ical.marudot.com//iCal Event Maker
+X-WR-CALNAME:Ligalender C 2022
+NAME:Ligalender C 2022
+REFRESH-INTERVAL;VALUE=DURATION:P5M
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+LAST-MODIFIED:20230407T050750Z
+TZURL:https://www.tzurl.org/zoneinfo-outlook/Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:0.dart.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20221006T200000
+DTEND;TZID=Europe/Berlin:20221006T220000
+SUMMARY:Auswärtsspiel - Altstadtstüble Darters x Fläschle Darters
+DESCRIPTION:Hinrunde - 1. Spieltag
+LOCATION:https://goo.gl/maps/m1Qh3wWP7ZmUpMDv8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:1.dart.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20221020T200000
+DTEND;TZID=Europe/Berlin:20221020T220000
+SUMMARY:Heimspiel - Fläschle Darters x Milchbix Darters
+DESCRIPTION:Hinrunde - 2. Spieltag 
+LOCATION:https://goo.gl/maps/hSwA8zR2ar5Hx5JaA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:10.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20230316T200000
+DTEND;TZID=Europe/Berlin:20230316T220000
+SUMMARY:Auswärtsspiel - Milchbix Darters x Fläschle Darters
+DESCRIPTION:Rückrunde - 11. Spieltag\n
+LOCATION:https://goo.gl/maps/bn3vsXCNdznPU9oU7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:11.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20230330T200000
+DTEND;TZID=Europe/Berlin:20230330T220000
+SUMMARY:Heimspiel - Fläschle Darters x Nice Hornets
+DESCRIPTION:Rückrunde - 12. Spieltag\n
+LOCATION:https://goo.gl/maps/hSwA8zR2ar5Hx5JaA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:12.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20230427T200000
+DTEND;TZID=Europe/Berlin:20230427T220000
+SUMMARY:Auswärtsspiel - Tenne Ettenkirch x Fläschle Darters
+DESCRIPTION:Rückrunde - 13. Spieltag\n
+LOCATION:https://g.page/krone-ettenkirch?share
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:13.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20230511T200000
+DTEND;TZID=Europe/Berlin:20230511T220000
+SUMMARY:Auswärtsspiel - Schwerzi Darters x Fläschle Darters
+DESCRIPTION:Rückrunde - 14. Spieltag (verschoben vom 14.05.2023)\n
+LOCATION:https://goo.gl/maps/m1Qh3wWP7ZmUpMDv8
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:14.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20230524T200000
+DTEND;TZID=Europe/Berlin:20230524T220000
+SUMMARY:Heimspiel - Fläschle Darters x Dartpropeller Team 2
+DESCRIPTION:Rückrunde - 15. Spieltag (verschoben vom 25.05.2023)\n
+LOCATION:https://goo.gl/maps/hSwA8zR2ar5Hx5JaA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:15.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20230615T200000
+DTEND;TZID=Europe/Berlin:20230615T220000
+SUMMARY:Auswärtsspiel - Die Scheibenspalter x Fläschle Darters
+DESCRIPTION:Rückrunde - 16. Spieltag\n
+LOCATION:https://goo.gl/maps/aCMnFnFJtr2qzH6x6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:16.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20230622T200000
+DTEND;TZID=Europe/Berlin:20230622T220000
+SUMMARY:Heimspiel - Fläschle Darters x Bavarian Unicorns
+DESCRIPTION:Rückrunde - 17. Spieltag\n
+LOCATION:https://goo.gl/maps/hSwA8zR2ar5Hx5JaA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:17.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20230706T200000
+DTEND;TZID=Europe/Berlin:20230706T220000
+SUMMARY:Auswärtsspiel - Zittrige Griffel x Fläschle Darters
+DESCRIPTION:Rückrunde - 18. Spieltag\n
+LOCATION:https://goo.gl/maps/D8fNGSE1DPCBHniV7
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:2.dart.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20221117T200000
+DTEND;TZID=Europe/Berlin:20221117T220000
+SUMMARY:Auswärtsspiel - Nice Hornets x Fläschle Darters
+DESCRIPTION:Hinrunde - 3. Spieltag
+LOCATION:https://goo.gl/maps/a7WJttZcV12zxEVJ6
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:4.dart.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20221208T200000
+DTEND;TZID=Europe/Berlin:20221208T220000
+SUMMARY:Heimspiel - Fläschle Darters x Schwerzi Darters
+DESCRIPTION:Hinrunde - 5. Spieltag\n
+LOCATION:https://goo.gl/maps/hSwA8zR2ar5Hx5JaA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:5.dart.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20230112T200000
+DTEND;TZID=Europe/Berlin:20230112T220000
+SUMMARY:Auswärtsspiel - Dartpropeller Team 2 x Fläschle Darters
+DESCRIPTION:Hinrunde - 6. Spieltag\n
+LOCATION:https://goo.gl/maps/QsFAVTBiLe7h7qPFA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:6.dart.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20230126T200000
+DTEND;TZID=Europe/Berlin:20230126T220000
+SUMMARY:Heimspiel - Fläschle Darters x Die Scheibenspalter
+DESCRIPTION:Hinrunde - 7. Spieltag\n
+LOCATION:https://goo.gl/maps/hSwA8zR2ar5Hx5JaA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:7.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20230209T200000
+DTEND;TZID=Europe/Berlin:20230209T220000
+SUMMARY:Auswärtsspiel - Bavarian Unicorns x Fläschle Darters
+DESCRIPTION:Hinrunde - 8. Spieltag\n
+LOCATION:https://goo.gl/maps/xwxCxyb3CxgBoUR68
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:8.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20230223T200000
+DTEND;TZID=Europe/Berlin:20230223T220000
+SUMMARY:Heimspiel - Fläschle Darters x Zittrige Griffel
+DESCRIPTION:Hinrunde - 9. Spieltag
+LOCATION:https://goo.gl/maps/hSwA8zR2ar5Hx5JaA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:9.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20230309T200000
+DTEND;TZID=Europe/Berlin:20230309T220000
+SUMMARY:Heimspiel - Fläschle Darters x Altstadtstüble Darters
+DESCRIPTION:Rückrunde - 10. Spieltag\n
+LOCATION:https://goo.gl/maps/hSwA8zR2ar5Hx5JaA
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20231003T132226Z
+UID:3.dart.dart@pixma140.com
+DTSTART;TZID=Europe/Berlin:20221201T200000
+DTEND;TZID=Europe/Berlin:20221201T220000
+SUMMARY:Heimspiel - Fläschle Darters x Tenne Ettenkirch
+DESCRIPTION:Hinrunde - 4. Spieltag \n
+LOCATION:Old Pub - Irish Style\, Untere Mühlbachstraße 2\, 88045 Friedrichshafen\, Germany
+END:VEVENT
+END:VCALENDAR
